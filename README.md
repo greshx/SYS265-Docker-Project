@@ -1,4 +1,4 @@
-# SYS265 Docker Compose Project  
+# Docker Compose Project  
 **VM:** docker01-miller  
 **IP Address:** 10.0.5.12  
 
